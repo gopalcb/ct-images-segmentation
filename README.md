@@ -1,6 +1,6 @@
 Jupyter notebook project.
 Developed by: Gopal Bala
-
+ 
 # PROJECT: LIVER SEGMENTATION OF MEDICAL CT IMAGES
 * Automatically segment livers using the U-net architecture.
 * Data source: Data download URL
