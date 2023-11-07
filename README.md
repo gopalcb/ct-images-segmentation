@@ -12,7 +12,7 @@
 
 The following diagram shows the overall U-net architecture.
 
-![png](display_preds/img-unet.png)
+<img src="./display_preds/img-unet.png" height="570">
 
 #### Pipeline Steps:
 
@@ -90,19 +90,6 @@ mask = train_mask[:, :, 72]
 # plot an image, mask, and combined
 plot_images([image], [mask])
 ```
-
-    /var/folders/cg/h7_fl0497c7dyn_wxbcjdl4c0000gn/T/ipykernel_4244/544972443.py:6: DeprecationWarning: get_data() is deprecated in favor of get_fdata(), which has a more predictable return type. To obtain get_data() behavior going forward, use numpy.asanyarray(img.dataobj).
-    
-    * deprecated from version: 3.0
-    * Will raise <class 'nibabel.deprecator.ExpiredDeprecationError'> as of version: 5.0
-      train_mask = train_mask.get_data()
-    /var/folders/cg/h7_fl0497c7dyn_wxbcjdl4c0000gn/T/ipykernel_4244/544972443.py:9: DeprecationWarning: get_data() is deprecated in favor of get_fdata(), which has a more predictable return type. To obtain get_data() behavior going forward, use numpy.asanyarray(img.dataobj).
-    
-    * deprecated from version: 3.0
-    * Will raise <class 'nibabel.deprecator.ExpiredDeprecationError'> as of version: 5.0
-      train_image = train_image.get_data()
-
-
 
     
 ![png](display_preds/output_8_1.png)
