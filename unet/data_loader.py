@@ -11,7 +11,7 @@ from image_processing.data_augmentation import *
 
 # train and validation batch size
 BATCH_SIZE = 25
-ROOT = '/Users/gopalcbala/Desktop/Jupyter_NB_Projects/PROJECTS/IRCAD/Untitled/ct-images-semantic-segmentation'
+ROOT = '/path/to/root'
 ds_path = f'{ROOT}/ircad-dataset'
 
 
