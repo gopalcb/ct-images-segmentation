@@ -27,7 +27,7 @@ The following diagram shows the overall U-net architecture.
 
 ### Project Structure:
 
-<img src="./display_preds/tree.png" height="400">
+<img src="./display_preds/tree.png" height="450">
 
 ### Hyperparameters:
 
