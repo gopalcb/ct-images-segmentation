@@ -13,7 +13,7 @@ import pandas as pd
 from pathlib import Path
 import traceback
 
-ROOT = '/Users/gopalcbala/Desktop/Jupyter_NB_Projects/PROJECTS/IRCAD/Untitled/ct-images-semantic-segmentation'
+ROOT = '/path/to/root'
 def plot_images(images, masks):
     '''
     plot images, masks, and combined images and masks.

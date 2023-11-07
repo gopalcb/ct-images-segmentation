@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 from pathlib import Path
 
 
-ROOT = '/Users/gopalcbala/Desktop/Jupyter_NB_Projects/PROJECTS/IRCAD/Untitled/ct-images-semantic-segmentation'
+ROOT = '/path/to/root'
 ds_path = f'{ROOT}/ircad-dataset'
 
 
