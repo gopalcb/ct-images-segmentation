@@ -12,7 +12,7 @@
 
 The following diagram shows the overall U-net architecture.
 
-<img src="./display_preds/img-unet.png" height="570">
+<img src="./display_preds/img-unet.png" height="400">
 
 #### Pipeline Steps:
 
@@ -27,7 +27,7 @@ The following diagram shows the overall U-net architecture.
 
 ### Project Structure:
 
-![png](display_preds/tree.png)
+<img src="./display_preds/tree.png" height="450">
 
 ### Hyperparameters:
 
