@@ -10,7 +10,7 @@
     <li>Each original image has its corresponding binary mask.</li>
 </ul>
 
-The following diagram shows the overall U-net architecture.
+The following diagram shows the overall U-net architecture. 
 
 <img src="./display_preds/img-unet.png" height="400">
 
